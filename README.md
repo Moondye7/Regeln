@@ -31,7 +31,8 @@ Wenn Moondye7 Plug.Dj hört, dann spiel bitte kein:
 Regeln für Staff Member/Moderatoren
 1. Nur weil dein Name Lila ist, heißt es nicht, dass du die Regeln nicht beachten musst. 
 2. Erst skippen, wenn über 2/3 der Stimmen negativ sind ( 2/3 aller Leute "Mehen")
-3. Keine Leute sinnlos in der Warteliste verschieben, vor allem während eines Streams
+3. Keine Leute sinnlos in der Warteliste verschieben, vor allem während eines Streams.
+4. 
 4. Wenn sich Leute gegenseitig beleidigen, dann warnt diese bitte, bevor ihr sie mutet.
 5. !roulette ist während eines Streams verboten
 Beachte: Wiederholtes Vergehen führt zu einer Demotion, daher zu einem Verlust eures Ranges.
